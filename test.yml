@@ -1,5 +1,5 @@
 ---
-- hosts: switches
+- hosts: NYC01
   connection: local
   vars:
     cli:
